@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iloveyouso.
-- 👀 I’m interested in... Me!
+- 👀 I’m interested in NLP, Robotics.
 - 🌱 I’m currently Undergraduate student majoring in Naval Architecture and Ocean Engineering in Seoul Nat'l University, South Korea.
-- 💞️ I’m looking to collaborate on nothing!
 - 📫 How to reach me? mail me :kbj5986@snu.ac.kr
 
 <!---
