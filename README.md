@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iloveyouso.
-- 👀 I’m interested in NLP, Robotics.
+- 👀 I’m interested in Robbot Grasping, Robotics, NLP.
 - 🌱 I’m currently Undergraduate student majoring in Naval Architecture and Ocean Engineering, and double majoring in Mechanical Engineering in Seoul Nat'l University, South Korea.
 - I am now doing my internship in BI lab(Advisor: Byoung-tak Zhang), Seoul National Unversity
 - I want to go home all the time
